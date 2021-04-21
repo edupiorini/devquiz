@@ -24,7 +24,7 @@ class AppBarWidget extends PreferredSize {
                               style: AppTextStyles.title,
                               children: [
                                 TextSpan(
-                                  text: "Eduardo Piorini",
+                                  text: "Laura Piorini",
                                   style: AppTextStyles.titleBold,
                                 )
                               ],
@@ -37,7 +37,7 @@ class AppBarWidget extends PreferredSize {
                               borderRadius: BorderRadius.circular(10),
                               image: DecorationImage(
                                 image: NetworkImage(
-                                    'https://media-exp1.licdn.com/dms/image/C4E35AQHtIQT38EcJ2w/profile-framedphoto-shrink_200_200/0/1614377825289?e=1618970400&v=beta&t=tYPJFirroh4rczKuGcrZeeiZqUz9N5WNk4hxh4ri7_A'),
+                                    'https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.6435-9/119169942_10224345399406366_8697816959624030214_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeE-38c41lZkXMfz03jR4kdmA3mN9SVm-14DeY31JWb7Xui-ub79megI-IxsqCWZl9I&_nc_ohc=QszmX8iEolcAX8N8OKM&_nc_ht=scontent.fsjk2-1.fna&oh=d5b48644d0fdf189ee36192dbba0a6df&oe=60A3D4EE'),
                               ),
                             ),
                           )
