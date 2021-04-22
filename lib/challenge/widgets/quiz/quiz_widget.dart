@@ -16,21 +16,25 @@ class QuizWidget extends StatelessWidget {
             height: 24,
           ),
           AnswerWidget(
-              isRight: true,
-              isSelected: true,
-              title:
-                  "Possibilita a criação de aplicativos compilados nativamente"),
+            isRight: true,
+            isSelected: true,
+            title:
+                "Possibilita a criação de aplicativos compilados nativamente",
+          ),
           AnswerWidget(
-              isRight: false,
-              isSelected: true,
-              title:
-                  "Possibilita a criação de aplicativos compilados nativamente"),
+            isRight: false,
+            isSelected: true,
+            title:
+                "Possibilita a criação de aplicativos compilados nativamente",
+          ),
           AnswerWidget(
-              title:
-                  "Possibilita a criação de aplicativos compilados nativamente"),
+            title:
+                "Possibilita a criação de aplicativos compilados nativamente",
+          ),
           AnswerWidget(
-              title:
-                  "Possibilita a criação de aplicativos compilados nativamente")
+            title:
+                "Possibilita a criação de aplicativos compilados nativamente",
+          )
         ],
       ),
     );
