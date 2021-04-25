@@ -1,6 +1,6 @@
 import 'package:DevQuiz/home/home_state.dart';
-import 'package:DevQuiz/shared/widgets/progress_indicator/models/quiz_model.dart';
-import 'package:DevQuiz/shared/widgets/progress_indicator/models/user_model.dart';
+import 'package:DevQuiz/shared/models/quiz_model.dart';
+import 'package:DevQuiz/shared/models/user_model.dart';
 import 'package:flutter/cupertino.dart';
 
 import 'home_repository.dart';

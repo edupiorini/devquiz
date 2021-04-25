@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:DevQuiz/shared/widgets/progress_indicator/models/question_model.dart';
+import 'question_model.dart';
 
 enum Level {
   facil,
